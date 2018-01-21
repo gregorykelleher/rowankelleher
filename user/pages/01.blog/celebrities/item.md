@@ -5,7 +5,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - speech
+        - article
 body_classes: 'single single-post'
 sticky: true
 ---

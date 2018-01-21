@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-    - speech
+    - essay
 
 body_classes: 'single single-post'
 sticky: true
