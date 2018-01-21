@@ -1,0 +1,24 @@
+title: Rowan Kelleher
+description: "This is my personal website"
+author:
+  name: Rowan Kelleher
+  email: 'kelleher.rowan@gmail.com'
+  url:
+  gravatar: kelleher.rowan@gmail.com
+  description: "this is my personal website"
+blog:
+  route: ''
+metadata:
+    description: 'This is my personal website'
+taxonomies: [category,tag,month]
+
+# Show calendar in sidebar
+calendar: true 
+
+# menu:
+#   - url: error
+#     text: Error Page
+
+# Copyright
+copyright:
+  left: <span>Copyright</span> © 2018 <a href="https://rowankelleher.me" title="Rowan Kelleher">Rowan kelleher</a>
